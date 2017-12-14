@@ -1,0 +1,8 @@
+{
+    "orgName": "ddrei",
+    "edition": "Developer",
+    "features": ["API", "AuthorApex", "Communities", "DebugApex", "SiteDotCom", "Sites", "ForceComPlatform"],
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
