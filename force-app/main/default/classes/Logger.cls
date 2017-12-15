@@ -33,5 +33,4 @@ public with sharing class Logger {
         log(LoggingLevel.ERROR, e.getTypeName(), e.getStackTraceString().split('\n'));
     }
 
-
 }
