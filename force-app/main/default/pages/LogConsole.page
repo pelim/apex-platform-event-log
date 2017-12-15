@@ -131,8 +131,7 @@
 
     function print(level, scope, message, data) {
         console.group('[' + level+ '] ' + scope);
-
-            console.log(message, JSON.parse(data));
+        console.log(message, JSON.parse(data));
         console.groupEnd();
     }
 
